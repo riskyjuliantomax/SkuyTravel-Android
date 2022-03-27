@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation_start"
+    app:startDestination="@id/loadingScreenFragment">
+
+    <fragment
+        android:id="@+id/loadingScreenFragment"
+        android:name="com.kelompok3sia.skuytravel.SplashScreen.LoadingScreenFragment"
+        android:label="fragment_loading_screen"
+        tools:layout="@layout/fragment_loading_screen">
+        <action
+            android:id="@+id/action_loadingScreenFragment_to_viewPagerFragment"
+            app:destination="@id/viewPagerFragment"
+            app:popUpTo="@id/loadingScreenFragment" />
+        <action
+            android:id="@+id/action_loadingScreenFragment_to_praMainFragment"
+            app:destination="@id/praMainFragment"
+            app:popUpTo="@id/loadingScreenFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewPagerFragment"
+        android:name="com.kelompok3sia.skuytravel.vPagerAdapter.viewPagerFragment"
+        android:label="viewPagerFragment"
+        tools:layout="@layout/fragment_view_pager">
+        <action
+            android:id="@+id/action_viewPagerFragment_to_praMainFragment"
+            app:destination="@id/praMainFragment"
+            app:popUpTo="@id/viewPagerFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/praMainFragment"
+        android:name="com.kelompok3sia.skuytravel.Fragment.PraMainFragment"
+        android:label="fragment_pra_main"
+        tools:layout="@layout/fragment_pra_main" />
+</navigation>

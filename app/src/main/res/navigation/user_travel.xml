@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/user_travel"
+    app:startDestination="@id/userTravelListFragment2">
+    <fragment
+        android:id="@+id/userTravelListFragment2"
+        android:name="com.kelompok3sia.skuytravel.User.UserTravelListFragment"
+        android:label="fragment_user_travel_list"
+        tools:layout="@layout/fragment_user_travel_list" />
+
+</navigation>

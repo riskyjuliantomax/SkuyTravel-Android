@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardPreventCornerOverlap="false"
+    app:cardElevation="8dp"
+    tools:context=".User.UserTravelListFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/user_travel_list_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        tools:listitem="@layout/fragment_admin_list_custom_row">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>

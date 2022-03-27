@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">SkuyTravel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="cth_user">Username</string>
+    <string name="cth_harga">Rp. 250.000</string>
+    <string name="Splash_Screen1_welcome">Welcome to SkuyTravel</string>
+    <string name="Splash_Screen2_aplikasi">Aplikasi ini memudahkan untuk mendapatkan informasi yang tersedia tentang travel segala jurusan</string>
+    <string name="splash_Screen3">Aplikasi ini membuat lebih efesien waktu dan energi untuk merencanakan perjalanan jauh</string>
+    <string name="ButtonTextLogin">Masuk</string>
+    <string name="ButtonTextRegister">Register</string>
+    <string name="ButtonGoRegister">Belum Memiliki Akun? Register Sekarang</string>
+    <string name="ButtonTextBelum">Belum</string>
+    <string name="ButtonTextSelanjutnya">Selanjutnya</string>
+    <string name="txtLogin">Login</string>
+    <string name="txtRegister">Register Akun</string>
+    <string name="namalengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="Txt_Selesai">Selesai</string>
+    <string name="konfirmasi_password">Konfirmasi Password</string>
+    <string name="txt_logout">Sign Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigate">NavigateActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="btn_tambah">Tambah</string>
+    <string name="input_nama_travel">Nama Travel</string>
+    <string name="input_mobil_merek">Merek Mobil</string>
+    <string name="input_mobil_bm">BM Mobil</string>
+    <string name="input_mobil_foto">Upload Foto Mobil</string>
+    <string name="input_daerah_pertama_lattitude">Daerah Pertama Lat titude</string>
+    <string name="input_daerah_pertama_longtitude">Daerah Pertama Long titude</string>
+    <string name="input_daerah_kedua_lattitude">Daerah Kedua Lat titude</string>
+    <string name="input_daerah_kedua_longtitude">Daerah Kedua Long titude</string>
+    <string name="input_tarif">Tarif Harga</string>
+    <string name="daerah1">Daerah Awal</string>
+    <string name="daerah2">Daerah Tujuan AKhir</string>
+    <string name="btn_carilokasi">Cari Lokasi</string>
+    <string name="btn_ambilLokasi1">Ambil Lokasi</string>
+    <string name="btn_ambilLokasi2">Ambil Lokasi 2</string>
+    <string name="input_tambahTravel">Tambah Travel</string>
+    <string name="title_activity_admin_input_maps">AdminInputMapsActivity</string>
+    <string name="aboutus">Tentang Kami</string>
+    <string name="tentangpcr">Tentang Politeknik Caltex Riau</string>
+    <string name="about_paragraph_1">Travel Skuy ingin membantu memudahkan kehidupan orang banyak melalui teknologi.
+Travel Skuy merupakan aplikasi transportasi darat yang fokus pada layanan pemesanan tiket travel.</string>
+    <string name="about_paragraph_2">Berawal dari layanan transportasi manual sekarang sudah berkembang
+Dengan travel Skuy memesan tiket dimana saja dan kapan saja bisa di lakukan
+Travel SKuy sangat memudahkan kita saat mau pergi daripada pun dan kapanpun</string>
+    <string name="about_paragraph_mhs_1">Aplikasi ini dibangun oleh Mahasiswa Politeknik Caltex Riau</string>
+    <string name="about_paragraph_mhs_2">Sebagai salah satu perguruan tinggi vokasi, Politeknik Caltex Riau memiliki mahasiswa yang dituntut untuk aktif dalam bidang akademik dan bidang-bidang lainnya. Tujuannya adalah agar mahasiswa tidak hanya memiliki skill yang mumpuni, tetapi juga memiliki soft skill yang dapat dimanfaatkan saat masuk dunia kerja
+</string>
+    <string name="title_activity_perusahaan_maps">PerusahaanMapsActivity</string>
+    <string name="title_activity_poiteknik_caltex_riau_maps">PoiteknikCaltexRiauMapsActivity
+    </string>
+    <string name="title_activity_admin_travel_list">AdminTravelListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

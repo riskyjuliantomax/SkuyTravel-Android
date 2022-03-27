@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigasi_app"
+    app:startDestination="@id/adminTravelListFragment2">
+
+    <fragment
+        android:id="@+id/adminTambahTravelFragment2"
+        android:name="com.kelompok3sia.skuytravel.Admin.AdminTambahTravelFragment"
+        android:label="fragment_admin_tambah_travel"
+        tools:layout="@layout/fragment_admin_tambah_travel" >
+        <action
+            android:id="@+id/action_adminTambahTravelFragment2_to_adminTravelListFragment2"
+            app:destination="@id/adminTravelListFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/adminUpdateTravelFragment"
+        android:name="com.kelompok3sia.skuytravel.Admin.AdminUpdateTravelFragment"
+        android:label="fragment_admin_update_travel"
+        tools:layout="@layout/fragment_admin_update_travel">
+        <argument
+            android:name="curTravel"
+            app:argType="com.kelompok3sia.skuytravel.Model.Travel" />
+        <action
+            android:id="@+id/action_adminUpdateTravelFragment_to_adminTravelListFragment"
+            app:destination="@id/adminTravelListFragment2" />
+    </fragment>
+    <fragment
+        android:id="@+id/adminTravelListFragment2"
+        android:name="com.kelompok3sia.skuytravel.Admin.AdminTravelListFragment"
+        android:label="fragment_admin_travel_list"
+        tools:layout="@layout/fragment_admin_travel_list" >
+        <action
+            android:id="@+id/action_adminTravelListFragment2_to_adminUpdateTravelFragment"
+            app:destination="@id/adminUpdateTravelFragment" />
+        <action
+            android:id="@+id/action_adminTravelListFragment2_to_adminTambahTravelFragment2"
+            app:destination="@id/adminTambahTravelFragment2" />
+    </fragment>
+</navigation>

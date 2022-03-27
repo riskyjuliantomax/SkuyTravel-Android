@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/custom_circle.xml" value="0.3769230769230769" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/custom_email_icon.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/custom_input.xml" value="0.3828125" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/custom_password_icon.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/ic_email.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/ic_email_focused.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/ic_lock.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/drawable/ic_lock_focused.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_account.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_input_maps.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_main.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_main_content.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_tambah_travel.xml" value="0.3061797752808989" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_trave_list.xml" value="0.24647887323943662" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_admin_travel_list.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_dash_board.xml" value="0.29891304347826086" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_edit_profile.xml" value="0.215625" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_loading.xml" value="0.29583333333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_loading_screen.xml" value="0.3182291666666667" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_navigate.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_perusahaan_maps.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_poiteknik_caltex_riau_maps.xml" value="0.34270833333333334" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_politeknik_caltex_riau_maps.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_splash_screen.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/activity_travel_list.xml" value="0.2671875" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/admin_header.xml" value="0.3026041666666667" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/admin_main.xml" value="0.221875" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/app_bar_navigate.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/content_admin_travel_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/content_navigate.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_admin_list_custom_row.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_admin_list_travel.xml" value="0.32741617357001973" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_admin_tambah_travel.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_admin_travel_list.xml" value="0.14114583333333333" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_admin_update_travel.xml" value="0.246875" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_halaman_utama.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_loading.xml" value="0.35507246376811596" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_loading_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_pra_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_spash_screen2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_splash_screen1.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_splash_screen2.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_splash_screen3.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_splash_screen4.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_user_travel_list.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/header.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/layout/nav_header_navigate.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/menu/activity_navigate_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/menu/admin_navigate.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/menu/navigate.xml" value="0.28229166666666666" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.31296296296296294" />
+        <entry key="..\:/Users/USER/Desktop/RiskyJulianto/Mobile/SkuyTravel/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
